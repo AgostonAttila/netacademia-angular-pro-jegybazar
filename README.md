@@ -1,6 +1,5 @@
 ﻿
-# 
-Netacademia - Angular Pro tanfolyam (csak a jegybazar app)
+# Netacademia - Angular Pro tanfolyam (csak a jegybazar app)
 
 
 https://netacademia.hu/Tanfolyam/2017angularpro-angular-pro
